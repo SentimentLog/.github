@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=감정일기" />
+
+## 🚀 나는 일주일동안 일기를 쓸 때마다 얼만큼의 감정이 쌓여있을까? 
+
+`KoBERT`를 이용한 감정모델 활용 및 감정에 알맞는 노래 추천 `SentimentLog`!
 
 <!--
 
